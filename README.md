@@ -72,5 +72,4 @@ You can do this across various machines & use multiple swap files for decentrali
 
 ___
 
-###### Mirrors
-[acid.vegas](https://git.acid.vegas/dram) • [GitHub](https://github.com/acidvegas/dram) • [GitLab](https://gitlab.com/acidvegas/dram) • [SuperNETs](https://git.supernets.org/acidvegas/dram)
+###### Mirrors for this repository: [acid.vegas](https://git.acid.vegas/dram) • [SuperNETs](https://git.supernets.org/acidvegas/dram) • [GitHub](https://github.com/acidvegas/dram) • [GitLab](https://gitlab.com/acidvegas/dram) • [Codeberg](https://codeberg.org/acidvegas/dram)
